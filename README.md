@@ -1,7 +1,7 @@
 # Deep Feature Graph-Cut Segmentation
 
 ### Note:
-This is my final project for a computational vision course (CS484) that I took at the University of Waterloo Due to course policies, I am not permitted to release the code publicly. Only the project report is available in this repo. In case you are interested in learning more about the code and implementation details, kindly reach out to me at yhbarve@uwaterloo.ca
+This is my final project for a computational vision course (CS484) that I took at the University of Waterloo. Due to course policies, I am not permitted to release the code publicly. Only the project report is available in this repo. In case you are interested in learning more about the code and implementation details, kindly reach out to me at yhbarve@uwaterloo.ca
 
 ---
 
